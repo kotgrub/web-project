@@ -229,6 +229,12 @@ h3 {
 /* В ПРАКТИЧЕСКОЙ №9 студент B должен добавить оформление для нового блока #contacts.
    Не вставляйте готовое решение сюда до начала работы. */
 
+#contacts {
+    padding-top: 15px;
+    background: var(--dark);
+    color: #d7dcef;
+}
+
 @media (max-width: 760px) {
     .header-inner,
     .footer-inner,
